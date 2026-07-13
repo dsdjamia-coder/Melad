@@ -1,0 +1,6 @@
+{
+  "name": "MeeladPulse",
+  "description": "A comprehensive festival management platform for arts, sports, and academic competitions, with portals for admins, judges, and teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
